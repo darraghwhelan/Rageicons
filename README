@@ -9,12 +9,16 @@ See branches pidgin and iChat for the goodies.
 
 To Checkout a branch do:
 
-git clone pidgin or iChat
+git clone git@github.com:darraghwhelan/Rageicons ~/.purple/smileys/Rageicons
+git checkout pidgin
 
 To update:
 
-git checkout pidgin or iChat
+git checkout pidgin
 
-
+TODO: instructions for iChat/windows.
 TODO: Insert ASCI art here.
-
+	^_^
+	_|_
+	 |
+	/ \
