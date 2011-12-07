@@ -7,6 +7,14 @@
 Based on the work done by edgesmash.
 See branches pidgin and iChat for the goodies.
 
+To Checkout a branch do:
+git checkout pidgin
+git checkout iChat
+
+Then after tinkering about, do
+git commit -a
+git push
+
 
 TODO: Insert ASCI art here.
 
