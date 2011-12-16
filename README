@@ -2,6 +2,10 @@
 ------Rage face smiley theme for Pidgin------
 ----------------------------------------------
 
+Based on the work of edgesmash.
+
+
+
 Changelog:
 1.7:
  - 8 new faces
@@ -29,76 +33,98 @@ Changelog:
 1.0:
  - Initial revision
 
-Setup Instructions:
-1) Decompress archive to %APPDATA%\.purple\smileys (if you're using Windows) or ~/.purple/smileys (if you're using Linux/*nix).
-2) Restart Pidgin (maybe, sometimes you don't need to).
-3) Select theme in preferences.
-4) PROFIT!!!
 
 Cheat sheet:
-fffuuu              :fuuu
-YUNO                :yuno
-stare dad           :sd
-problem             :t
-LOL                 :lol
-GTFO                :gtfo
-Challenge Accepted  :ca
-fuck yea            :fyea
-forever alone       :fa
-me gusta            :mg
-aw yeah             :ay
-shocked             :sh
-okay                :ok
-high                :high
-melvin              :m
-cereal              :cereal
-cerealspitting      :spit
-actually            :act
-aintthatsomeshit    :aint
-babytroll           :baby
-baww                :baww
-biggrin             :grin
-determined          :determined
-disgusted           :disgust
-dudecomeon          :dude
-ewbte               :ewbte
-excitedtroll        :et
-fapfap              :fap
-femalehappy         :fhappy
-femalerage          :frage
-friends             :friends
-fullpanel           :fff
-gasp                :gasp
-gtroll              :gtroll
-happy               :happy
-hehehe              :hehehe
-herpderp            :herp
-iamdisappointed     :disappoint
-itsnotokay          :notok
-mad                 :mad
-milk                :milk
-mouthopen           :mouthopen
-newspaperguy        :np
-newspaperguytear    :newstear
-no                  :no
-ohno                :ohno
-openmouth           :openmouth
-PFFFTCCHCHCHHFFFTTT :pff
-pig                 :pig
-pokerface           :poker
-rage2               :rage
-redeyes             :redeyes
-retarddog           :dog
-sadmelvin           :sadm
-sadtroll            :st
-sidemouth           :side
-smile2              :smile
-somuchwin           :win
-suspicious          :susp
-sweaty              :sw
-thoughtful          :th
-tongue              :tongue
-trolldad            :tdad
-whywithhands        :why
-yaoming             :yao
-look of disapproval :lod
+fffuuu.png              :fuuu
+YUNO.png                :yuno
+staredad.png            :sd
+problem.png             :t
+LOLnotext.png           :lol
+GTFO.png                :gtfo
+ChallengeAccepted.png   :ca
+fuckyeahwords.png       :fyea
+foreveralone.png        :fa
+megusta.png             :mg
+awyeah.png              :ay
+shocked.png             :sh
+okay.png                :ok
+melvin.png              :m
+cereal.png              :cereal
+cerealspitting.png      :spit
+actually.png            :act
+aintthatsomeshit.png    :aint
+babytroll.png           :baby
+baww.png                :baww
+biggrin.png             :grin
+closeenough.png         :ce
+determined.png          :determined
+disgusted.png           :disgust
+down.png                :down
+dudecomeon.png          :dude
+ewbte.png               :ewbte
+excitedtroll.png        :et
+fapfap.png              :fap
+friends.png             :friends
+fullpanel.png           :fff
+gasp.png                :gasp
+gasp.png                :O
+gaytroll.png            :gay
+happy.png               :happy
+hehehe.png              :hehehe
+herpderp.png            :herp
+iamdisappointed.png     :disappoint
+itsnotokay.png          :notok
+mad.png                 :mad
+milk.png                :milk
+mouthopen.png           :mouthopen
+newspaperguy.png        :np
+newspaperguytear.png    :newstear
+no.png                  :no
+ohno.png                :ohno
+openmouth.png           :openmouth
+PFFFTCCHCHCHHFFFTTT.png :pff
+pokerface.png           :poker
+rage2.png               :rage
+redeyes.png             :redeyes
+sadmelvin.png           :sadm
+sadtroll.png            :st
+somuchwin.png           :win
+suspicious.png          :susp
+sweaty.png              :sw
+thoughtful.png          :th
+tongue.png              :tongue
+trolldad.png            :tdad
+underbite.png           :sj
+upvote.png              :up
+what.png                :what
+whywithhands.png        :why
+fuckthatshit.png        :fts
+lod.jpg                 :lod
+dance.gif               :dance
+awesome.png             :awesome
+lied.png                :lie
+truestory.png           :ts
+jackiechan.jpg          :jc
+steve.jpg               :steve
+derp.png                :derp
+smirk.jpg               :smirk
+cochran.gif             :cochran
+BadPokerFace.png        :badpoker
+kidding.png             :kidding
+notbad.jpg              :notbad
+racket.jpg              :racket
+tdadjump.png            :tdadjump
+fumanchu.jpg            :fum
+clevergirl.png			:cg
+fucolor9.png			:funuke
+RichFu.png				:quite
+hatersgonnahate.jpg		:haters
+iseewhatyoudidthere.png :ic
+GaspHand.png			:gasphand
+AllTheThings.png		:all
+whathaveyoudone.png		:youdone
+drunk.png				:drunk
+spiderpman.png			:perv
+omgrun.png				:run
+slowclap.gif            :slowclap
+freddie.png             :victory
