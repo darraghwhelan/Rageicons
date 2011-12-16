@@ -443,6 +443,42 @@
 			<key>Speech Description</key>
 			<string>Thumbs Down Emoticon</string>
 		</dict>
+		<dict>
+			<key>ASCII Representations</key>
+			<array>
+				<string>:fts</string>
+			</array>
+			<key>Image Name</key>
+			<string>fuckthatshit.tif</string>
+			<key>Description</key>
+			<string>Fuck that shit</string>
+			<key>Speech Description</key>
+			<string>Fuck that shit</string>
+		</dict>
+		<dict>
+			<key>ASCII Representations</key>
+			<array>
+				<string>:drunk</string>
+			</array>
+			<key>Image Name</key>
+			<string>drunk.tif</string>
+			<key>Description</key>
+			<string>Drunk</string>
+			<key>Speech Description</key>
+			<string>Drunk</string>
+		</dict>
+		<dict>
+			<key>ASCII Representations</key>
+			<array>
+				<string>:gasphand</string>
+			</array>
+			<key>Image Name</key>
+			<string>GaspHand.tif</string>
+			<key>Description</key>
+			<string>Hand Gasp</string>
+			<key>Speech Description</key>
+			<string>Hand Gasp</string>
+		</dict>
 	</array>
 </dict>
 </plist>
