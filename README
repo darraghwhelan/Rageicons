@@ -2,12 +2,28 @@
 ------Rageicons smiley theme for Pidgin and iChat------
 -------------------------------------------------------
 
-
-
 Based on the work done by edgesmash.
+
+We liked edgesmash theme pack alot. But we found adding and updating faces to be a pain. 
+With everyone always having to download the latest zip file and copy it over.
+So we put them in a git repo and making sure everyone has the latest version is simples. Just Pull.
+
 See branches pidgin and iChat for the goodies.
 
-To Checkout a branch do:
+
+Pidgin Install
+
+Windows:
+We recomend this way because it is very simple and easy to do.
+1. Install Tortoisegit  (http://code.google.com/p/tortoisegit/)
+2. Navigate to     C:\Program Files (x86)\Pidgin\pixmaps\pidgin\emotes\           (64bit) 
+			or     C:\Program Files\Pidgin\pixmaps\pidgin\emotes\                 (32bit)
+			or where ever you have installed pidgin
+3. Right click and click "Git Clone". Enter the url as: git://github.com/darraghwhelan/Rageicons.git  . Click OK.
+4. Now this has checked out the master branch. We don't want that. So, enter into the new folder that has been create. Right click again.
+   Select "Switch/Checkout" under the tortoisegit menue. Now select pidgin in the branches drop down list. Click OK.
+5. You should now have the whole rageicons pack. Open pidgin and go to Tools > Preferences > Themes. Now select Rageicons.
+
 
 git clone git@github.com:darraghwhelan/Rageicons ~/.purple/smileys/Rageicons
 git checkout pidgin
