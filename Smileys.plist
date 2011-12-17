@@ -22,18 +22,6 @@
 		<dict>
 			<key>ASCII Representations</key>
 			<array>
-				<string>:fuckyeah</string>
-			</array>
-			<key>Image Name</key>
-			<string>fuckyeahwords.tif</string>
-			<key>Description</key>
-			<string>Fuck Yeah</string>
-			<key>Speech Description</key>
-			<string>Fuck Yeah</string>
-		</dict>
-		<dict>
-			<key>ASCII Representations</key>
-			<array>
 				<string>;-)</string>
 				<string>;)</string>
 			</array>
@@ -478,6 +466,246 @@
 			<string>Hand Gasp</string>
 			<key>Speech Description</key>
 			<string>Hand Gasp</string>
+		</dict>
+		<dict>
+			<key>ASCII Representations</key>
+			<array>
+				<string>:fuckyeah</string>
+			</array>
+			<key>Image Name</key>
+			<string>fuckyeahwords.tif</string>
+			<key>Description</key>
+			<string>Fuck Yeah</string>
+			<key>Speech Description</key>
+			<string>Fuck Yeah</string>
+		</dict>
+		<dict>
+			<key>ASCII Representations</key>
+			<array>
+				<string>:whathaveyoudone</string>
+			</array>
+			<key>Image Name</key>
+			<string>whathaveyoudone.tif</string>
+			<key>Description</key>
+			<string>What have you done</string>
+			<key>Speech Description</key>
+			<string>What have you done</string>
+		</dict>
+		<dict>
+			<key>ASCII Representations</key>
+			<array>
+				<string>:happy</string>
+			</array>
+			<key>Image Name</key>
+			<string>happy.tif</string>
+			<key>Description</key>
+			<string>Happy</string>
+			<key>Speech Description</key>
+			<string>Happy</string>
+		</dict>
+		<dict>
+			<key>ASCII Representations</key>
+			<array>
+				<string>:fuuu</string>
+			</array>
+			<key>Image Name</key>
+			<string>fffuuu.tif</string>
+			<key>Description</key>
+			<string>FFFUUUUUUUUU</string>
+			<key>Speech Description</key>
+			<string>FFFFUUUUUUUU</string>
+		</dict>
+		<dict>
+			<key>ASCII Representations</key>
+			<array>
+				<string>:yuno</string>
+			</array>
+			<key>Image Name</key>
+			<string>YUNO.tif</string>
+			<key>Description</key>
+			<string>Y U NO</string>
+			<key>Speech Description</key>
+			<string>Y U NO</string>
+		</dict>
+		<dict>
+			<key>ASCII Representations</key>
+			<array>
+				<string>:sd</string>
+			</array>
+			<key>Image Name</key>
+			<string>staredad.tif</string>
+			<key>Description</key>
+			<string>Stare Dad</string>
+			<key>Speech Description</key>
+			<string>Stare Dad</string>
+		</dict>
+		<dict>
+			<key>ASCII Representations</key>
+			<array>
+				<string>:t</string>
+			</array>
+			<key>Image Name</key>
+			<string>problem.tif</string>
+			<key>Description</key>
+			<string>Problem?</string>
+			<key>Speech Description</key>
+			<string>Problem?</string>
+		</dict>
+		<dict>
+			<key>ASCII Representations</key>
+			<array>
+				<string>:lol</string>
+			</array>
+			<key>Image Name</key>
+			<string>LOLnotext.tif</string>
+			<key>Description</key>
+			<string>LOL</string>
+			<key>Speech Description</key>
+			<string>LOL</string>
+		</dict>
+		<dict>
+			<key>ASCII Representations</key>
+			<array>
+				<string>:ca</string>
+			</array>
+			<key>Image Name</key>
+			<string>ChallengeAccepted.tif</string>
+			<key>Description</key>
+			<string>Challenge Accepted</string>
+			<key>Speech Description</key>
+			<string>Challenge Acepted</string>
+		</dict>
+		<dict>
+			<key>ASCII Representations</key>
+			<array>
+				<string>:fa</string>
+			</array>
+			<key>Image Name</key>
+			<string>foreveralone.tif</string>
+			<key>Description</key>
+			<string>Forever alone</string>
+			<key>Speech Description</key>
+			<string>Forever alone</string>
+		</dict>
+		<dict>
+			<key>ASCII Representations</key>
+			<array>
+				<string>:mg</string>
+			</array>
+			<key>Image Name</key>
+			<string>megusta.tif</string>
+			<key>Description</key>
+			<string>Me Gusta</string>
+			<key>Speech Description</key>
+			<string>Me Gusta</string>
+		</dict>
+		<dict>
+			<key>ASCII Representations</key>
+			<array>
+				<string>:ay</string>
+			</array>
+			<key>Image Name</key>
+			<string>awyeah.tif</string>
+			<key>Description</key>
+			<string>AAAWWYYYEEEAAAAHHHHH</string>
+			<key>Speech Description</key>
+			<string>AAWWWYYEEAAAHHHHHHH</string>
+		</dict>
+		<dict>
+			<key>ASCII Representations</key>
+			<array>
+				<string>:ok</string>
+			</array>
+			<key>Image Name</key>
+			<string>okay.tif</string>
+			<key>Description</key>
+			<string>Okay</string>
+			<key>Speech Description</key>
+			<string>Okay</string>
+		</dict>
+		<dict>
+			<key>ASCII Representations</key>
+			<array>
+				<string>:m</string>
+			</array>
+			<key>Image Name</key>
+			<string>melvin.tif</string>
+			<key>Description</key>
+			<string>Melvin</string>
+			<key>Speech Description</key>
+			<string>Melvin</string>
+		</dict>
+		<dict>
+			<key>ASCII Representations</key>
+			<array>
+				<string>:cereal</string>
+			</array>
+			<key>Image Name</key>
+			<string>cereal.tif</string>
+			<key>Description</key>
+			<string>Cereal Guy</string>
+			<key>Speech Description</key>
+			<string>Cereal Guy</string>
+		</dict>
+		<dict>
+			<key>ASCII Representations</key>
+			<array>
+				<string>:spit</string>
+			</array>
+			<key>Image Name</key>
+			<string>cerealspitting.tif</string>
+			<key>Description</key>
+			<string>Cereal Guy Spitting</string>
+			<key>Speech Description</key>
+			<string>Cereal Guy Spitting</string>
+		</dict>
+		<dict>
+			<key>ASCII Representations</key>
+			<array>
+				<string>:act</string>
+			</array>
+			<key>Image Name</key>
+			<string>actually.tif</string>
+			<key>Description</key>
+			<string>Actually</string>
+			<key>Speech Description</key>
+			<string>Actually</string>
+		</dict>
+		<dict>
+			<key>ASCII Representations</key>
+			<array>
+				<string>:aint</string>
+			</array>
+			<key>Image Name</key>
+			<string>aintthatsomeshit.tif</string>
+			<key>Description</key>
+			<string>Aint that some shit</string>
+			<key>Speech Description</key>
+			<string>Aint that some shit</string>
+		</dict>
+		<dict>
+			<key>ASCII Representations</key>
+			<array>
+				<string>:baby</string>
+			</array>
+			<key>Image Name</key>
+			<string>babytroll.tif</string>
+			<key>Description</key>
+			<string>Baby Troll</string>
+			<key>Speech Description</key>
+			<string>Baby Troll</string>
+		</dict>
+		<dict>
+			<key>ASCII Representations</key>
+			<array>
+				<string>:baww</string>
+			</array>
+			<key>Image Name</key>
+			<string>baww.tif</string>
+			<key>Description</key>
+			<string>Baww</string>
+			<key>Speech Description</key>
+			<string>Baww</string>
 		</dict>
 	</array>
 </dict>
