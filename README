@@ -1,0 +1,9 @@
+Raceicons for iChat
+
+To install, in Terminal exicute
+
+sudo perl install.pl
+
+
+
+We need to use sudo as the iChat folder where icons are stored is protected.
