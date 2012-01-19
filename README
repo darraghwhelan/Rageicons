@@ -25,8 +25,6 @@ We recomend this way because it is very simple and easy to do.
 5. You should now have the whole rageicons pack. Open pidgin and go to Tools > Preferences > Themes. Now select Rageicons.
 
 
-git clone git@github.com:darraghwhelan/Rageicons ~/.purple/smileys/Rageicons
-git checkout pidgin
 
 Mac - iChat:
 
