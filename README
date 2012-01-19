@@ -28,11 +28,21 @@ We recomend this way because it is very simple and easy to do.
 git clone git@github.com:darraghwhelan/Rageicons ~/.purple/smileys/Rageicons
 git checkout pidgin
 
-To update:
+Mac - iChat:
 
-git checkout pidgin
+1. Install git.
+2. Open Terminal 
+3. git clone git@github.com:darraghwhelan/Rageicons ~/Rageicons
+4. cd ~/Rageicons
+5. git checkout pidgin
+6. sudo perl install.pl
+7. Restart iChat
 
-TODO: instructions for iChat/windows.
+
+We need to use sudo as the iChat folder where icons are stored is protected.
+
+
+
 TODO: Insert ASCI art here.
 	^_^
 	_|_
